@@ -15,7 +15,7 @@ I'm currently working on developing a Formula 1 strategy prediction system. <br>
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=vigneshskdas)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://fourinthemorning.com/" width="512px"/>
 
 ---
