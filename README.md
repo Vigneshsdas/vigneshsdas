@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing a Formula 1 strategy prediction system. <br>I'm currently learning about anything and everything that sparks my interest<br>Ask me about: Games, Formula 1, Science, Design, 4inthemorning and any other tech-related stuff<br>Fun fact: Earth's core is 2.5 years younger than the surface
+I'm currently working on developing a Formula 1 strategy prediction system. <br>Ask me about: Games, Formula 1, Science, Design, 4inthemorning and any other tech-related stuff<br>Fun fact: Earth's core is 2.5 years younger than the surface
 
 
 ## 🌐 Socials:
